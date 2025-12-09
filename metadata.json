@@ -1,0 +1,8 @@
+{
+  "name": "KyEnglish Grader Pro",
+  "description": "Professional Postgraduate English I Essay Grading System based on Beijing Standards. Supports text and image analysis for both Big and Small Compositions.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
